@@ -1,0 +1,146 @@
+body
+{
+    background-image:url("background/marble-texture.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+main
+{
+    display: block;
+    height: 110%;
+    width: 90%;
+    margin: auto;
+    background-color: #000000;
+}
+header
+{
+    background-color: #000000;
+    height: 100%;
+    margin:auto;
+}
+a
+{
+    color: 	#D4AF37;
+    padding: 10px;
+}
+a:hover
+{
+    color: #fff8f8;
+}
+.links
+{
+    float:right;
+    display:block;
+    margin: 15px auto;
+    font-size: large;
+}
+.slider
+{
+    display: block;
+    margin:auto;
+}
+.videobanner
+{
+    display: block;
+    margin:50px auto;
+}
+iframe
+{
+    display: block;
+    margin:auto;
+    border: none;
+}
+.koncertbanner
+{
+    margin: 50px auto;
+    display:flex;
+    flex-direction: column;
+}
+.container
+{
+    height: 800px;
+}
+.uso
+{
+    background: linear-gradient(to right,#D4AF37 50%, #000000 50%);
+    margin:auto ;
+    height: 800px;
+    color: white;
+}
+.goldboxleft
+{
+    text-align: center;
+    float: left;
+    width: 50%;
+}
+.blackboxright
+{
+    text-align: center;
+    float: right;
+    width: 50%;
+}
+.containermusik
+{
+    height: 800px;
+    background: linear-gradient(to right, black 50%, #D4AF37 50%);
+}
+h2
+{
+    font-size: xxx-large;
+    color: black;
+}
+h3
+{
+    line-height: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.h3
+{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+}
+.h2
+{
+ color: white;
+}
+.musikbanner
+{
+    margin: -500px auto;
+    display:block;
+}
+.blackboxleft
+{
+  background-color: #000000;
+    float: left;
+    width: 50%;
+    height: 1000px;
+}
+.goldboxright
+{
+    float: right;
+  background-color:#D4AF37;
+    width: 50%;
+    height: 1000px;
+}
+.a2007
+{
+    margin: -50px 150px;
+}
+.a2011
+{
+    margin: 150px 150px;
+}
+.a2012
+{
+    margin: -50px 180px;
+}
+.a2015
+{
+    margin: 160px 180px;
+}
+
+
